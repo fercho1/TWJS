@@ -6,3 +6,10 @@ a [Sails](http://sailsjs.org) application
 ~~Scratch this.~~
 sails new Aplication1
 sails lift
+Las herramientas que vamos a utilizar:
+1. Sails
+  * Unordered sub-list.
+2. Docker
+3. Webstorm
+4. Postman
+5. Dbeaver
