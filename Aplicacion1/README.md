@@ -3,6 +3,6 @@ a [Sails](http://sailsjs.org) application
 ## Header 2
 ### Header 3
  Los primeros **comandos** son:
-
+~~Scratch this.~~
 sails new Aplication1
 sails lift
