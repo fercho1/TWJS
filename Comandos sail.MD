@@ -15,3 +15,6 @@ El comando **lift** nos ayuda a levantar el proyecto de sails, pero hay que toma
 ```
 
 [Ir documentación Documentación Sails CLI](http://sailsjs.com/documentation/reference/command-line-interface)
+```
+docker run --name postgresadrian -e POSTGRES PASSWORD=123456 -e POSTGRES_USER=adrian -e POSTGRES_DB=politecnica -p 5432:5432 -d postgres
+```
