@@ -19,3 +19,8 @@ var hola=function(){
     console.log('hola')
 };
 hola();
+
+function haz(a){
+    a()
+};
+haz(function (){console.log('la casa')});
